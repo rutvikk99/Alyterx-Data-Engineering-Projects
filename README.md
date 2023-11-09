@@ -5,6 +5,10 @@
 
 This Alteryx workflow is designed to analyze and report customer sales by department. The workflow performs data cleaning, transformation, and aggregation to provide the top 10 results per customer segment. The primary data sources are the sales and transaction files, which are joined based on the `customerId` column.
 
+![ALTERYX](https://github.com/rutvikk99/Alyterx-Data-Engineering-Projects/blob/main/Customer%20Sales.png)
+
+
+
 ## Prerequisites
 
 - **Alteryx Designer**: Make sure you have Alteryx Designer installed to run this workflow. You can download it from the [Alteryx website](https://www.alteryx.com/products/designer).
