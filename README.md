@@ -1,4 +1,4 @@
-# Alyterx-Data-Engineering-Project
+# Alteryx-Data-Engineering-Project
 #  Customer Sales by Department
 
 ## Overview
